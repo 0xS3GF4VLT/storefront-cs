@@ -1,0 +1,1 @@
+A simple example storefront website using C# and React.
